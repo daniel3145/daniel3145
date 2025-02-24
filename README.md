@@ -26,7 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight" width="48%" alt="GitHub Streak">
 </p>-->
-
+<!--
 # 📌 MyProjectName
 🚀 A brief description of the project.
 
@@ -44,4 +44,4 @@ git clone https://github.com/tu-usuario/tu-repo.git
 cd tu-repo
 npm install
 npm start
-
+-->

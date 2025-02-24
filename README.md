@@ -27,3 +27,21 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight" width="48%" alt="GitHub Streak">
 </p>-->
 
+# 📌 MyProjectName
+🚀 A brief description of the project.
+
+## 🛠 Tech Stack
+- **Frontend:** React, Tailwind CSS
+- **Backend:** Node.js, Express, MongoDB
+- **DevOps:** Docker, AWS
+
+## 🚀 Demo
+🔗 [Live Project](https://myproject.com)
+
+## 🖥️ Installation
+```bash
+git clone https://github.com/tu-usuario/tu-repo.git
+cd tu-repo
+npm install
+npm start
+

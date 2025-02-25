@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there! I'm Daniel Mesa Patiño</h1>
+<!--<h1 align="center">👋 Hey there! I'm Daniel Mesa Patiño</h1>
 <p align="center">🚀 Junior Backend Developer from Colombia</p>
 
 ---
@@ -13,7 +13,7 @@
 [![Gmail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mesa3146@gmail.com)  
 
 ### 🛠 Languages & Tools  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)-->
 <!--![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
